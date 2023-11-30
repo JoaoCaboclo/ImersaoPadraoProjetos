@@ -11,8 +11,9 @@ Clicar com o botão direito em cima do arquivo, depois selecionar imprimir....
 ![image](https://github.com/JoaoCaboclo/ImersaoPadraoProjetos/assets/36268566/f66575f8-c050-4ff4-a24d-3bc2d37a98b8)
 
 
-ALGUMAS REPRESENTAÇÕES DE PADRÕES
-=================================
+                                      ALGUMAS REPRESENTAÇÕES DE PADRÕES
+                                      Fiz exemplos de código para todos
+                                      ---------------------------------
 
 ![image](https://github.com/JoaoCaboclo/ImersaoPadraoProjetos/assets/36268566/9b3249c2-0ffe-4ef4-be90-9bdd7477ae22)
 
